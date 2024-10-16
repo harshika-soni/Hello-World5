@@ -7,6 +7,7 @@ public class P1 {
 		int a=10;
 		int b= 20;
          System.out.println(a+b);
+		//two
          System.out.println(b-a);
 	}
 
